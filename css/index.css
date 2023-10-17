@@ -1,0 +1,96 @@
+.profileimage{
+height: 300px;
+}
+.logo{
+
+    width: 23%;
+    pad: 1%;
+    text-align: center;
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+nav {
+    width: 73%;
+    padding: 1%;
+
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+footer{
+    background-color: #373738;
+    padding: 1%;
+}
+footer ul{
+    display: inline-block;
+    vertical-align: top;
+}
+footer ul li{
+    padding: 1%;
+}         
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.profileimage{
+height: 300px;
+}
+.allskills
+{
+    text-align: center;
+    pad: 5%;
+}
+.skilldiv
+{
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+.mywork{
+    text-align: center;
+    display: inline-block;
+    padding: 5%;
+    vertical-align: middle;
+    
+}
+.myworkimg{
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle;
+
+}
+.myworkparent{
+    text-align: center;
+    padding: 1%;
+    width: 800px;
+    margin: 0 auto;
+}
+.flexContaimer{
+    display: flex;
+    flex-direction: row;
+
+}
+.flexContent{
+    width: 33%;
+    margin: 1%;
+    padding: 1%
+}
+.mywork {
+
+    display: grid;
+    flex-direction: row;
+}
